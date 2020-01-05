@@ -1,4 +1,7 @@
+
 # hello Git
+
+this line is added for merge --no-ff demo.
 
 this line is added in branch dev only.
 
